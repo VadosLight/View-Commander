@@ -1,0 +1,44 @@
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\NewKursProject.exe.config
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\NewKursProject.exe.manifest
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\NewKursProject.application
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\NewKursProject.exe
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\NewKursProject.pdb
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\de\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\en\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Release\ru\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Properties.Resources.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.de.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.en.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.ru.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.de.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.en.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.ru.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\View Commander.csproj.GenerateResource.Cache
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\de\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\en\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\ru\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.exe.manifest
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.application
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.exe
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\NewKursProject.pdb
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\View Commander.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\NewKursProject\NewKursProject\obj\Release\View Commander.csproj.CoreCompileInputs.cache
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\View Commander.csprojAssemblyReference.cache
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Properties.Resources.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.de.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.en.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form1.ru.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.de.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.en.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.Form2.ru.resources
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\View Commander.csproj.GenerateResource.cache
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\View Commander.csproj.CoreCompileInputs.cache
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\de\NewKursProject.resources.dll
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\en\NewKursProject.resources.dll
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\ru\NewKursProject.resources.dll
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.exe
+E:\Универ\Программирование\Архив\NewKursProject\NewKursProject\obj\Release\NewKursProject.pdb

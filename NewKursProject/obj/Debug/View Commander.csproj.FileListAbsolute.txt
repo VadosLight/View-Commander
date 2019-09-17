@@ -1,0 +1,27 @@
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\NewKursProject.exe.config
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\NewKursProject.exe.manifest
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\NewKursProject.application
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\NewKursProject.exe
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\NewKursProject.pdb
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\de\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\en\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\bin\Debug\ru\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form1.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form2.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Properties.Resources.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form1.de.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form1.en.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form1.ru.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form2.de.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form2.en.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.Form2.ru.resources
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\View Commander.csproj.GenerateResource.Cache
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\de\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\en\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\ru\NewKursProject.resources.dll
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.exe.manifest
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.application
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.exe
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\NewKursProject.pdb
+C:\Users\vadim\documents\visual studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\View Commander.csprojResolveAssemblyReference.cache
+C:\Users\vadim\Documents\Visual Studio 2017\Projects\NewKursProject\NewKursProject\obj\Debug\View Commander.csproj.CoreCompileInputs.cache
